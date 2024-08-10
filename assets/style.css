@@ -64,3 +64,18 @@ ul {
 p {
   color: #573A37;
 }
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer a {
+  color: #F0E8C2;
+  cursor: pointer;
+}
+
+footer i  {
+  vertical-align: middle;
+}
